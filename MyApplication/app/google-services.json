@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016269192069",
+    "project_id": "diversain-2514f",
+    "storage_bucket": "diversain-2514f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016269192069:android:1b9c618cf34832b61862ec",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Nl-idtBhkdKN8C2YSN7kbrGoNtjB5j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
